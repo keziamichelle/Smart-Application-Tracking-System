@@ -1,6 +1,6 @@
 *Smart Application Tracking System*
 
-This project is a Smart Application Tracking System that analyzes resumes and job descriptions, providing a percentage match, missing keywords, and a profile summary. It uses Streamlit for the web interface, Google Generative AI for content generation, and PyPDF2 for PDF handling.
+This project is a Smart Application Tracking System that revolutionizes the way resumes and job descriptions are analyzed. By leveraging advanced AI capabilities, it provides a comprehensive assessment including a percentage match, identification of missing keywords, and a detailed profile summary.
 
 *Features*
 
