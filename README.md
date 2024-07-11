@@ -14,7 +14,7 @@ This project is a Smart Application Tracking System that revolutionizes the way 
 
 -Generate a profile summary based on the resume and job description.
 
-*Technologies Used*
+*Technologies/Tools/Libraries Used*
 
 -Streamlit
 
